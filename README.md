@@ -7,7 +7,8 @@
 
 ## 💻 Tech Stack
 - **Languages:**
-  - *HTML, CSS*
+  - *HTML*
+  - *CSS*
   - *MySQL (basic)*
 
 ## 🚀 Projects
@@ -30,5 +31,11 @@
 
 ## 🤝 Open to Collaboration
 - *Eager to collaborate on exciting projects, hackathons, and learning experiences.*
+
+## 📄 CV
+- [Download CV](https://ashutoshsingh1311.github.io/img/Screenshot%202023-11-05%20160315.png)
+
+## 🎥 YouTube Channel
+- [Check out my YouTube Channel](https://www.youtube.com/@animegan6554)
 
 Feel free to reach out for collaboration, learning opportunities, or just a friendly chat! 😊
