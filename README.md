@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm [Ashutosh Singh]!
 
 ## 🎓 Education
 - **B.Tech in Computer Science and Engineering (CSE)**
@@ -13,16 +13,12 @@
 
 ## 🚀 Projects
 - **Modern Traffic Simulation System**
-  - [Explore Project](Link to Project Repository/GitHub Pages)
+  - [Explore Project](https://github.com/ashutoshsingh1311/trafficsimulation)
   - A dynamic traffic simulation aiming for modern urban planning. My role included [brief description of your role/contribution].
 
 - **Restaurant Ordering System**
-  - [Discover Project](Link to Project Repository/GitHub Pages)
+  - [Discover Project](https://github.com/ashutoshsingh1311/restaurantmanagementsystem)
   - Simplifying food orders with an efficient system. I contributed to [brief description of your role/contribution].
-
-- **Other Projects**
-  - [Check out more](Link to a separate section or list)
-  - Explore additional projects I've worked on. Links to repositories and brief descriptions included.
 
 ## 🌱 Currently Learning
 - *Data Structures in C*
