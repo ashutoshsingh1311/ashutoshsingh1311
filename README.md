@@ -31,7 +31,4 @@
 ## 🤝 Open to Collaboration
 - *Eager to collaborate on exciting projects, hackathons, and learning experiences.*
 
-## 📈 GitHub Stats
-- ![Your GitHub Stats](Link to GitHub Stats Image)
-
 Feel free to reach out for collaboration, learning opportunities, or just a friendly chat! 😊
