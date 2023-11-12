@@ -14,11 +14,11 @@
 ## 🚀 Projects
 - **Modern Traffic Simulation System**
   - [Explore Project](https://github.com/ashutoshsingh1311/trafficsimulation)
-  - Focuses on contemporary urban planning principles to reduce congestion and enhance overall convenience for individuals.
+  - Designing an innovative, dynamic traffic simulation system with a focus on contemporary urban planning principles to reduce congestion and enhance overall convenience for individuals.
 
 - **Restaurant Ordering Management System**
   - [Discover Project](https://github.com/ashutoshsingh1311/restaurantmanagementsystem)
-  - Simplifying food orders with an efficient online ordering system.
+  - Elevate your restaurant's efficiency with our intuitive Order Management System – streamlining orders, enhancing customer satisfaction, and bringing a touch of seamless precision to your dining experience.
 
 ## 🌱 Currently Learning
 - *Data Structures in C*
