@@ -28,7 +28,7 @@
 - [LinkedIn](https://www.linkedin.com/in/ashutosh-singh-16a5b4251/)
 - [Instagram](https://www.instagram.com/ashtoshhh/) 
 - [Personal Website/Blog](https://ashutoshsingh1311.github.io/)
-- **Email:** ashutosharena7@gmail.com
+- ashutosharena7@gmail.com
 
 ## 📄 CV
 - [Download CV](https://ashutoshsingh1311.github.io/img/Screenshot%202023-11-05%20160315.png)
