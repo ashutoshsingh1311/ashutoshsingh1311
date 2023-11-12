@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Ashutosh Singh]!
+# 👋 Hey there, I'm Ashutosh Singh!
 
 ## 🎓 Education
 - **B.Tech in Computer Science and Engineering (CSE)**
@@ -25,7 +25,7 @@
 
 ## 📫 Connect with Me
 - [LinkedIn](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Profile URL)
+- [Twitter](Your Twitter Profile URL) 
 - [Personal Website/Blog](Your Website/Blog URL)
 
 ## 🤝 Open to Collaboration
