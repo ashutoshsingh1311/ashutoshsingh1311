@@ -15,7 +15,7 @@
   - [Explore Project](https://github.com/ashutoshsingh1311/trafficsimulation)
   - A dynamic traffic simulation aiming for modern urban planning. My role included [brief description of your role/contribution].
 
-- **Restaurant Ordering System**
+- **Restaurant Ordering Management System**
   - [Discover Project](https://github.com/ashutoshsingh1311/restaurantmanagementsystem)
   - Simplifying food orders with an efficient system. I contributed to [brief description of your role/contribution].
 
