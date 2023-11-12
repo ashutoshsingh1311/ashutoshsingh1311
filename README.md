@@ -9,7 +9,6 @@
 - **Languages:**
   - *HTML, CSS*
   - *MySQL (basic)*
-  - *Currently learning C for Data Structures*
 
 ## 🚀 Projects
 - **Modern Traffic Simulation System**
@@ -22,6 +21,7 @@
 
 ## 🌱 Currently Learning
 - *Data Structures in C*
+- *Java Basics*
 
 ## 📫 Connect with Me
 - [LinkedIn](Your LinkedIn Profile URL)
