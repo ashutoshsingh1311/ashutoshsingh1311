@@ -24,9 +24,9 @@
 - *Java Basics*
 
 ## 📫 Connect with Me
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Profile URL) 
-- [Personal Website/Blog](Your Website/Blog URL)
+- [LinkedIn](https://www.linkedin.com/in/ashutosh-singh-16a5b4251/)
+- [Instagram](https://www.instagram.com/ashtoshhh/) 
+- [Personal Website/Blog](https://ashutoshsingh1311.github.io/)
 
 ## 🤝 Open to Collaboration
 - *Eager to collaborate on exciting projects, hackathons, and learning experiences.*
