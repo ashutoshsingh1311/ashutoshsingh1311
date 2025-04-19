@@ -8,6 +8,7 @@
 ## 💻 Tech Stack
 - **Languages:**
   - *C++ (DSA)*
+  - *Python*
   - *HTML*
   - *CSS*
   - *MySQL (basic)*
