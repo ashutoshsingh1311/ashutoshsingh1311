@@ -32,7 +32,7 @@
 - ashutosharena7@gmail.com
 
 ## 📄 CV
-- [Download CV](https://ashutoshsingh1311.github.io/img/Screenshot%202023-11-05%20160315.png)
+- [Download CV](https://drive.google.com/file/d/1K5VRE6hrC9Qlv0xsHCmg0AavJxVql5b1/view?usp=drive_link)
 
 ## 🤝 Open to Collaboration
 - *Eager to collaborate on exciting projects, hackathons, and learning experiences.*
